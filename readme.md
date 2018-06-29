@@ -8,7 +8,7 @@ Below you find a set of charts demonstrating the paths that you can take and the
 * [Computational Linguist](#-computational-linguist-roadmap)
 * [Software Architect](#-software-architect-roadmap)
 
-> <sub>These charts were inspired from [Karman Ahmed](https://github.com/kamranahmedse/developer-roadmap) who had build them originally for his old professor friend to share with his college students to give them a perspective.</sub>
+> <sub>These charts were inspired from [Kamran Ahmed](https://github.com/kamranahmedse/developer-roadmap) who had build them originally for his old professor friend to share with his college students to give them a perspective.</sub>
 
 <sub>Check [open positions at Smarter.Codes](https://angel.co/smarter-codes/jobs) and say "hi" on [Twitter](https://twitter.com/tusharsb).</sub>
 
