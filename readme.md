@@ -1,5 +1,5 @@
 # Developer Roadmap in 2018
-You develop code in [Smarter.Codes](https://smarter.codes/) as Full Stack Web Developer, as Computational Linguist, and as DevOps. You review code and take control of shipment schedule as a Software Architect. **This guide helps suggest newbie (and experienced alike) on what to skills to keep yourself abreast of when contributing at Smarter.Codes.**
+You develop code in [Smarter.Codes](https://smarter.codes/) as Full Stack Web Developer, as Computational Linguist, and as DevOps. You review code and take control of shipment schedule as a Software Architect. **This guide helps suggest newbie (and experienced alike) on what skills to keep yourself abreast of when contributing at Smarter.Codes.**
 
 Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a :
 * [Frontend Developer](#-frontend-roadmap)
@@ -8,7 +8,7 @@ Below you find a set of charts demonstrating the paths that you can take and the
 * [Computational Linguist](#-computational-linguist-roadmap)
 * [Software Architect](#-software-architect-roadmap)
 
-> These charts were inspired from [Karman Ahmed](https://github.com/kamranahmedse/developer-roadmap) who had build them originally for his old professor friend to share with his college students to give them a perspective.
+> <sub>These charts were inspired from [Karman Ahmed](https://github.com/kamranahmedse/developer-roadmap) who had build them originally for his old professor friend to share with his college students to give them a perspective.</sub>
 
 <sub>Check [open positions at Smarter.Codes](https://angel.co/smarter-codes/jobs) and say "hi" on [Twitter](https://twitter.com/tusharsb).</sub>
 
